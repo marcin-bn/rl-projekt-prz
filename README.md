@@ -1,0 +1,2 @@
+## Sekwencyjne malowanie obrazów z wykorzystaniem uczenia się ze wzmocnieniem
+Projekt zakłada opracowanie systemu uczącego się sekwencyjnego odtwarzania zadanego obrazu referencyjnego o rozdzielczości 64 × 64 pikseli na początkowo pustym płótnie przy użyciu ustalonej liczby pociągnięć pędzla. Pojedyncze pociągnięcie modelowane będzie jako półprzezroczysta krzywa Béziera drugiego stopnia o określonym położeniu, grubości, barwie oraz miękkości krawędzi.
